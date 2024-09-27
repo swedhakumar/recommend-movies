@@ -1,0 +1,101 @@
+User_ID,Watched_Genres,Favorite_Actors,Ratings
+1,"['Romance', 'Drama']","['Meryl Streep', 'Brad Pitt']",4.2
+2,['Action'],"['Leonardo DiCaprio', 'Keanu Reeves']",3.4
+3,['Thriller'],"['Meryl Streep', 'Scarlett Johansson']",3.4
+4,"['Thriller', 'Comedy']","['Scarlett Johansson', 'Tom Hanks']",3.5
+5,"['Sci-Fi', 'Drama']","['Brad Pitt', 'Meryl Streep']",3.9
+6,['Action'],['Keanu Reeves'],4.2
+7,['Sci-Fi'],['Tom Hanks'],4.9
+8,"['Thriller', 'Horror', 'Comedy']",['Scarlett Johansson'],3.7
+9,"['Thriller', 'Sci-Fi']","['Meryl Streep', 'Scarlett Johansson']",4.8
+10,['Romance'],"['Meryl Streep', 'Brad Pitt']",3.9
+11,"['Sci-Fi', 'Action']","['Keanu Reeves', 'Brad Pitt']",3.6
+12,"['Horror', 'Action']",['Meryl Streep'],4.1
+13,"['Romance', 'Horror', 'Action']","['Scarlett Johansson', 'Leonardo DiCaprio']",4.4
+14,"['Comedy', 'Romance']","['Scarlett Johansson', 'Meryl Streep']",4.6
+15,"['Romance', 'Action', 'Sci-Fi']","['Tom Hanks', 'Brad Pitt']",3.8
+16,"['Comedy', 'Horror', 'Drama']","['Meryl Streep', 'Tom Hanks']",4.8
+17,['Thriller'],"['Keanu Reeves', 'Tom Hanks']",4.2
+18,"['Comedy', 'Sci-Fi']",['Brad Pitt'],4.9
+19,"['Sci-Fi', 'Comedy', 'Horror']","['Tom Hanks', 'Scarlett Johansson']",4.9
+20,"['Sci-Fi', 'Thriller']","['Leonardo DiCaprio', 'Tom Hanks']",3.9
+21,"['Romance', 'Comedy']",['Brad Pitt'],4.8
+22,"['Drama', 'Romance', 'Sci-Fi']","['Tom Hanks', 'Brad Pitt']",4.0
+23,"['Romance', 'Action']","['Meryl Streep', 'Brad Pitt']",3.0
+24,"['Thriller', 'Drama', 'Horror']",['Keanu Reeves'],3.3
+25,"['Romance', 'Action']",['Leonardo DiCaprio'],4.3
+26,"['Drama', 'Thriller']",['Scarlett Johansson'],4.3
+27,"['Romance', 'Thriller', 'Action']",['Scarlett Johansson'],3.0
+28,"['Comedy', 'Romance']","['Leonardo DiCaprio', 'Meryl Streep']",4.3
+29,['Drama'],"['Leonardo DiCaprio', 'Scarlett Johansson']",3.7
+30,"['Thriller', 'Sci-Fi']","['Leonardo DiCaprio', 'Scarlett Johansson']",3.7
+31,"['Romance', 'Thriller', 'Action']","['Keanu Reeves', 'Tom Hanks']",3.5
+32,"['Drama', 'Horror']","['Brad Pitt', 'Scarlett Johansson']",3.3
+33,"['Drama', 'Comedy']","['Brad Pitt', 'Tom Hanks']",4.2
+34,"['Sci-Fi', 'Comedy']","['Brad Pitt', 'Scarlett Johansson']",3.5
+35,"['Horror', 'Action', 'Drama']","['Scarlett Johansson', 'Meryl Streep']",3.0
+36,"['Thriller', 'Romance', 'Action']","['Leonardo DiCaprio', 'Keanu Reeves']",3.4
+37,['Sci-Fi'],['Scarlett Johansson'],3.4
+38,['Romance'],['Brad Pitt'],3.1
+39,"['Comedy', 'Action']","['Meryl Streep', 'Keanu Reeves']",4.2
+40,"['Action', 'Horror']","['Brad Pitt', 'Leonardo DiCaprio']",3.4
+41,['Action'],['Keanu Reeves'],4.4
+42,"['Drama', 'Horror']","['Brad Pitt', 'Leonardo DiCaprio']",4.4
+43,"['Sci-Fi', 'Comedy']",['Scarlett Johansson'],3.7
+44,"['Sci-Fi', 'Romance', 'Drama']","['Tom Hanks', 'Leonardo DiCaprio']",4.7
+45,"['Comedy', 'Sci-Fi']","['Meryl Streep', 'Scarlett Johansson']",4.0
+46,['Drama'],"['Leonardo DiCaprio', 'Scarlett Johansson']",4.0
+47,['Horror'],['Meryl Streep'],3.4
+48,['Thriller'],['Scarlett Johansson'],3.7
+49,['Comedy'],"['Tom Hanks', 'Brad Pitt']",4.4
+50,['Romance'],"['Leonardo DiCaprio', 'Brad Pitt']",3.6
+51,"['Sci-Fi', 'Drama']","['Scarlett Johansson', 'Meryl Streep']",4.1
+52,['Romance'],['Tom Hanks'],4.2
+53,"['Sci-Fi', 'Drama']",['Leonardo DiCaprio'],3.5
+54,"['Thriller', 'Horror']",['Scarlett Johansson'],4.0
+55,"['Thriller', 'Comedy']","['Brad Pitt', 'Tom Hanks']",3.8
+56,['Horror'],['Brad Pitt'],3.2
+57,"['Romance', 'Drama', 'Thriller']","['Leonardo DiCaprio', 'Keanu Reeves']",5.0
+58,['Horror'],['Meryl Streep'],3.2
+59,['Thriller'],"['Scarlett Johansson', 'Meryl Streep']",3.4
+60,['Thriller'],['Keanu Reeves'],3.4
+61,"['Drama', 'Action', 'Romance']",['Tom Hanks'],3.8
+62,"['Drama', 'Action']",['Brad Pitt'],3.4
+63,['Horror'],['Brad Pitt'],4.6
+64,"['Action', 'Comedy']","['Brad Pitt', 'Tom Hanks']",3.9
+65,"['Comedy', 'Thriller']","['Meryl Streep', 'Brad Pitt']",4.9
+66,['Drama'],"['Meryl Streep', 'Scarlett Johansson']",4.1
+67,['Sci-Fi'],"['Brad Pitt', 'Leonardo DiCaprio']",4.0
+68,"['Horror', 'Comedy', 'Action']",['Scarlett Johansson'],4.6
+69,['Thriller'],"['Meryl Streep', 'Keanu Reeves']",3.7
+70,['Sci-Fi'],['Brad Pitt'],3.6
+71,['Horror'],"['Tom Hanks', 'Leonardo DiCaprio']",4.9
+72,"['Horror', 'Romance', 'Drama']",['Leonardo DiCaprio'],4.2
+73,"['Thriller', 'Drama']",['Keanu Reeves'],3.9
+74,"['Thriller', 'Horror', 'Comedy']",['Tom Hanks'],3.2
+75,['Thriller'],['Tom Hanks'],3.7
+76,['Comedy'],"['Tom Hanks', 'Meryl Streep']",4.8
+77,"['Horror', 'Drama']","['Leonardo DiCaprio', 'Meryl Streep']",4.9
+78,"['Action', 'Thriller', 'Romance']","['Scarlett Johansson', 'Leonardo DiCaprio']",3.9
+79,['Sci-Fi'],['Keanu Reeves'],4.9
+80,"['Comedy', 'Sci-Fi', 'Drama']","['Meryl Streep', 'Tom Hanks']",4.7
+81,"['Action', 'Romance']","['Tom Hanks', 'Keanu Reeves']",3.1
+82,"['Sci-Fi', 'Romance']",['Meryl Streep'],3.5
+83,"['Sci-Fi', 'Comedy']",['Scarlett Johansson'],4.4
+84,"['Comedy', 'Thriller']",['Keanu Reeves'],3.5
+85,"['Romance', 'Comedy']","['Tom Hanks', 'Scarlett Johansson']",3.2
+86,"['Comedy', 'Romance', 'Drama']",['Leonardo DiCaprio'],3.7
+87,['Romance'],"['Meryl Streep', 'Tom Hanks']",4.6
+88,"['Comedy', 'Drama', 'Action']","['Brad Pitt', 'Meryl Streep']",3.2
+89,"['Sci-Fi', 'Action']",['Tom Hanks'],4.8
+90,"['Sci-Fi', 'Thriller', 'Comedy']","['Leonardo DiCaprio', 'Meryl Streep']",3.7
+91,"['Drama', 'Romance', 'Thriller']","['Brad Pitt', 'Leonardo DiCaprio']",3.2
+92,"['Drama', 'Horror']","['Meryl Streep', 'Keanu Reeves']",4.3
+93,"['Comedy', 'Romance', 'Action']",['Leonardo DiCaprio'],3.2
+94,"['Sci-Fi', 'Action', 'Horror']",['Meryl Streep'],4.1
+95,"['Comedy', 'Action', 'Drama']","['Tom Hanks', 'Meryl Streep']",3.9
+96,"['Thriller', 'Drama', 'Romance']",['Meryl Streep'],4.8
+97,['Sci-Fi'],['Tom Hanks'],3.7
+98,"['Sci-Fi', 'Drama', 'Comedy']",['Scarlett Johansson'],3.2
+99,['Thriller'],"['Leonardo DiCaprio', 'Brad Pitt']",4.2
+100,"['Romance', 'Sci-Fi', 'Horror']","['Keanu Reeves', 'Tom Hanks']",3.3
